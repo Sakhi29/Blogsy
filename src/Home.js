@@ -7,7 +7,7 @@ const Home = () => {
     data: blogs,
     isPending,
     error,
-  } = useFetch("http://localhost:8000/blogs");
+  } = useFetch("https://my-json-server.typicode.com/Sakhi29/blogsy-db/blogs");
   return (
     <div className="home">
       {error && <div>{error}</div>}

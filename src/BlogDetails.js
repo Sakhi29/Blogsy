@@ -8,12 +8,12 @@ const BlogDetails = () => {
     data: blog,
     error,
     isPending,
-  } = useFetch("http://localhost:8000/blogs/" + id);
+  } = useFetch("https://my-json-server.typicode.com/Sakhi29/blogsy-db/blogs/" + id);
 
   const navigate = useNavigate();
 
   const handleClick = () => {
-    fetch("http://localhost:8000/blogs/" + blog.id, {
+    fetch("https://my-json-server.typicode.com/Sakhi29/blogsy-db/blogs/" + blog.id, {
       method: "DELETE",
     }).then(() => {
       navigate("/");
