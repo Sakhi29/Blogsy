@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Sakhi29/Blogsy/static/css/main.9c074d32.css",
-    "main.js": "/Sakhi29/Blogsy/static/js/main.0a10d425.js",
+    "main.js": "/Sakhi29/Blogsy/static/js/main.53bf805c.js",
     "static/js/787.c15da7b6.chunk.js": "/Sakhi29/Blogsy/static/js/787.c15da7b6.chunk.js",
     "index.html": "/Sakhi29/Blogsy/index.html",
     "main.9c074d32.css.map": "/Sakhi29/Blogsy/static/css/main.9c074d32.css.map",
-    "main.0a10d425.js.map": "/Sakhi29/Blogsy/static/js/main.0a10d425.js.map",
+    "main.53bf805c.js.map": "/Sakhi29/Blogsy/static/js/main.53bf805c.js.map",
     "787.c15da7b6.chunk.js.map": "/Sakhi29/Blogsy/static/js/787.c15da7b6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9c074d32.css",
-    "static/js/main.0a10d425.js"
+    "static/js/main.53bf805c.js"
   ]
 }
